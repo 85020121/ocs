@@ -33,7 +33,18 @@ public class CallInfo {
 		this.start = start;
 	}
 
-	public long getCallId() {
+	public CallInfo(long callId, long companyId, long clientId, int callType,
+            Date start, Date end) {
+        super();
+        this.callId = callId;
+        this.companyId = companyId;
+        this.clientId = clientId;
+        this.callType = callType;
+        this.start = start;
+        this.end = end;
+    }
+
+    public long getCallId() {
 		return callId;
 	}
 

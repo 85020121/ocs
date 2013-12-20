@@ -2,7 +2,7 @@ package com.hesong.ocs.managers;
 
 import java.util.Date;
 
-import com.hesong.ocs.beans.CallInfo;
+import com.hesong.ocs.pojo.CallInfo;
 import com.hesong.ocs.rules.IRule;
 
 public class CallManager {

@@ -2,7 +2,7 @@ package com.hesong.ocs.factories;
 
 import java.util.Date;
 
-import com.hesong.ocs.beans.CallInfo;
+import com.hesong.ocs.pojo.CallInfo;
 
 public class CallFactory {
 

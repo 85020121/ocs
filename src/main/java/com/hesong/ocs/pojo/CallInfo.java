@@ -1,4 +1,4 @@
-package com.hesong.ocs.beans;
+package com.hesong.ocs.pojo;
 
 import java.util.Date;
 
